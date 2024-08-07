@@ -1,4 +1,4 @@
-Aliens vs. Humans Junit Codecademy Project
+<b>Aliens vs. Humans Junit Codecademy Project</b>
 
 In this Codecademy project we were supposed to make a skeleton for a game called Aliens vs. Humans doing so in a TDD type manner. The parameters we were given were that we had to have at leaset one Human class and one Alien class and that the Aliens had to have different functionality than the Humans. We also had to test everything that we wrote in Junit tests. I chose to go with an Aliens vs Predator movie type theme here giving different functionality to the Aliens, Humans, and Predators.
 
